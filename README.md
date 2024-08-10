@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/kalyanspunk" target="blank"><img src="https://img.shields.io/twitter/follow/kalyanspunk?logo=twitter&style=for-the-badge" alt="kalyanspunk" /></a> </p>
 
-- 🔭 I’m currently working on **Health Care Android App**
+- 🔭 I’m currently Grinding on **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently addicted to **Problem Solving**
 
 - 📫 How to reach me **inumula2003@gmail.com**
 
