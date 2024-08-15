@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **inumula2003@gmail.com**
 
-- ⚡ Fun fact **I am Crazy**
+- ⚡ Fun fact **I am Crazy-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
